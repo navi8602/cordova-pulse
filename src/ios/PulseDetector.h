@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-#define MAX_PERIODS_TO_STORE 50
-#define AVERAGE_SIZE 50
+#define MAX_PERIODS_TO_STORE 20
+#define AVERAGE_SIZE 20
 #define INVALID_PULSE_PERIOD -1
 
 @interface PulseDetector : NSObject {
